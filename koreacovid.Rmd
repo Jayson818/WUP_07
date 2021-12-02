@@ -56,6 +56,7 @@ basicCC <- ggplot(dd2,aes(x=result,y=prcnt*100,fill=Sex))
 basicCC + geom_bar(stat="identity", position = "dodge")
 ```
   
+Among those who died in Korea, most of them were men. Woman died at almost half the rate as men died in Korea from covid. The right bar graph shows women died at a level of a level of 36% of the infected , and it shows that the men (blue) died of levels of 64% of those infected.
 
 
 
